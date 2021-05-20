@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31220.234
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "samplemod", "samplemod.pyproj", "{D21F60A3-3BB2-48D4-AB04-62DD4963837E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D21F60A3-3BB2-48D4-AB04-62DD4963837E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21F60A3-3BB2-48D4-AB04-62DD4963837E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACFA6626-88B3-43B6-ACE6-A3BF9DAA89F6}
+	EndGlobalSection
+EndGlobal
